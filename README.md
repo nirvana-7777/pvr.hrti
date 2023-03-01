@@ -13,9 +13,9 @@ For more information on the relationship of the data and the UI see [here](pvr.d
 ### Linux
 
 1. `git clone --branch master https://github.com/xbmc/xbmc.git`
-2. `git clone https://github.com/nirvana-7777/pvr.hrti.git
-3. `cd pvr.demo && mkdir build && cd build`
-4. `cmake -DADDONS_TO_BUILD=pvr.hrti -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/cmake/addons
+2. `git clone https://github.com/nirvana-7777/pvr.hrti.git`
+3. `cd pvr.hrti && mkdir build && cd build`
+4. `cmake -DADDONS_TO_BUILD=pvr.hrti -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/cmake/addons`
 5. `make`
 
 ##### Useful links
