@@ -3,10 +3,8 @@
 [![Build Status](https://jenkins.kodi.tv/view/Addons/job/kodi-pvr/job/pvr.demo/job/Nexus/badge/icon)](https://jenkins.kodi.tv/blue/organizations/jenkins/kodi-pvr%2Fpvr.demo/branches/)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/5120/badge.svg)](https://scan.coverity.com/projects/5120)
 
-# Demo PVR
-Demo PVR client addon for [Kodi](https://kodi.tv). The add-on is aimed at both PVR add-on devs and at XBMC skin developers.
-
-For more information on the relationship of the data and the UI see [here](pvr.demo/README.md)
+# HRTi PVR client for Kodi
+This is the Hrti PVR client addon for Kodi. It provides Kodi integration for the Croation TV streaming provider HRT. A user account is required to use this addon. Please create the user account outside of this addon. A croatian is required to access geoblocked content. 
 
 ## Build instructions
 
