@@ -1,5 +1,5 @@
 variables:
-  app_id: 'pvr.demo'
+  app_id: 'pvr.hrti'
 
 trigger:
   branches:
