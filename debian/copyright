@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: pvr.demo
-Source: https://github.com/kodi-pvr/pvr.demo
+Upstream-Name: pvr.hrti
+Source: https://github.com/nirvana-7777/pvr.hrti
 
 Files: *
 Copyright: 2011 Pulse-Eight
